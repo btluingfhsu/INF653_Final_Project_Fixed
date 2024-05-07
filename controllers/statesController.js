@@ -73,8 +73,6 @@ const getAdmission = async (req, res) => {
     jsonMessage(req, res, 'admission');
 }
 
-
-
 const createNewFunfacts = async (req, res) => {
     if (!req?.params?.state) return res.status(400).json({ 'message': 'State code required.' });
     const state = await State.findOne({ stateCode: req.params.state.toUpperCase() }).exec();
