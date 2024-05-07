@@ -56,3 +56,8 @@
 20240506	21:24:43	3571d6b3-5dd2-465d-bcdb-c964a24280ce	GET	undefined	/states/NE
 20240506	21:27:16	7231ad94-68d5-4992-944a-8ba5a4b9534e	GET	undefined	/states/NEca
 20240506	21:27:21	ffddf3ed-3e0f-4e60-a68e-0e07e70eecde	GET	undefined	/states/NE
+20240506	23:09:09	eac310c1-af5d-4f1b-9aa2-64af24522250	GET	undefined	/
+20240506	23:09:09	3a3af97b-48bd-4d27-9401-ccfddfc33a18	GET	undefined	/css/style.css
+20240506	23:09:16	f8ae65bd-4186-43c4-968d-3d0cc6dd950f	GET	undefined	/states/KS
+20240506	23:09:20	6c32c360-b81f-4b6f-b660-8097c91ad3cb	GET	undefined	/states/KS/
+20240506	23:12:52	9e8a1007-3ada-4e80-a48a-d91fec676c56	GET	undefined	/states/KS/
